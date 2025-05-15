@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 <h1 align="center"> Task Flask CRUD </h1>
 
 <p align="center">
@@ -50,3 +51,5 @@ You can view the project layout through [THIS LINK](https://github.com/Tavinhovi
 
 This project is under the MIT license.
 ---
+=======
+>>>>>>> 66b841f505de8fd4ba774f2c5966586e94a447cb
