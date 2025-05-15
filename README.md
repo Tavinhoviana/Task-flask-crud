@@ -19,7 +19,7 @@ Exclusive course, promoted by Rocketseat for teaching web technologies.
 
 <br>
 
-![ContactList](./assets/image%20CRUD.png) 
+![CRUD  ](./assets/image%20CRUD.png) 
 
 ## 🚀 Technologies
 
