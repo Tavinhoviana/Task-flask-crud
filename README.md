@@ -35,9 +35,9 @@ This project was developed with the following technologies:
 
 ## 🔧 Applications
 
-- Task management
-- Create, Read, Update and Delete (CRUD) operations
-- Simple and intuitive interface
+- Task management;
+- Create, Read, Update and Delete (CRUD) operations;
+- Simple and intuitive interface.
 
 ## 💻 Project
 
