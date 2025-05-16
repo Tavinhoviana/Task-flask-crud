@@ -7,8 +7,8 @@ tasks = []
 
 def test_create_task():
     new_task_data = {
-        "title": "Nova tarefa",
-        "description": "Descricao da nova tarefa"
+        "title": "New task",
+        "description": "Description of the new task"
     }
     response = requests.post(f"{BASE_URL}/tasks", json=new_task_data)
     assert response.status_code == 200
@@ -37,8 +37,8 @@ def test_update_task():
         task_id = tasks[0]
         payload = {
             "completed": True,
-            "description": "Nova descriçao",
-            "title": "Titulo atualizado"
+            "description": "New description",
+            "title": "Updated Title"
         }
         response = requests.put(f"{BASE_URL}/tasks/{task_id}", json=payload)
         response.status_code == 200
